@@ -1,1 +1,0 @@
-1. it is concatenating strings instead of using the numbers
